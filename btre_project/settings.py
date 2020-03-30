@@ -147,3 +147,10 @@ MESSAGE_TAGS = {
     messages.WARNING: 'alert-warning',
     messages.ERROR: 'alert-danger',
 }
+
+# Email config
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 587
+EMAIL_HOST_USER = 'johnny45gotu@gmail.com'
+EMAIL_HOST_PASSWORD='7u6hWyLw23'
+EMAIL_USE_TLS=True
